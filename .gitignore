@@ -1,7 +1,5 @@
-/_site
-/.ipynb_checkpoints
-.*~
-.*.sw?
 .DS_Store
-
-Gemfile.lock
+__site
+node_modules/
+package-lock.json
+.__py_*
